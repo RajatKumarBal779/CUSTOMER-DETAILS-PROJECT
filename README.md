@@ -1,7 +1,7 @@
 # 🏦 Customer Banking Management System (Python)
 A console-based Python application that simulates basic banking operations such as opening accounts, depositing and withdrawing money, managing ATM PINs, and viewing customer details using file-based storage.
 ***
-##📖 About the Project
+## 📖 About the Project
 This project is designed to demonstrate how a banking system works at a basic level. It focuses on data persistence, input validation, and modular programming using Python. Customer records are stored in a binary file and managed through different functional modules.
 ***
 ## ✨ Features
